@@ -49,3 +49,4 @@ I did the following in this project:
 * Dockerfile: This contains all the information needed to build a docker image
 * upload_docker.sh: This is used to upload the built docker image to docker
 * make_prediction.sh: This is the shell script that is used to pass the input to the app
+* config.yml: This contains information about the environment setup as well as what needs to run
