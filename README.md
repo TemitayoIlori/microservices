@@ -1,5 +1,4 @@
-
-[![CircleCI](https://app.circleci.com/pipelines/github/TemitayoIlori/microservices.svg?style=svg)](https://github.com/TemitayoIlori/microservices)
+[![CircleCI](https://circleci.com/gh/TemitayoIlori/microservices/tree/main.svg?style=svg)](https://circleci.com/gh/TemitayoIlori/microservices/tree/main)
 
 ## Project Overview
 
